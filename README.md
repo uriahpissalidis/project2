@@ -1,10 +1,12 @@
 # project2
 
+Built with: Apollo client, React, GraphQL, JavaScript, HTML/CSS, MongoDB
+
 Adding functionalities <br>
 
 Future Features include: <br>
 1. Login Page <br>
-2. A page to view all of the available projects <br>
+2. A page to view all of the available projects for job seekers to apply to <br>
 3. Profiles for the job posters and job seekers <br>
 
 # Getting Started with Create React App
